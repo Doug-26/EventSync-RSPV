@@ -1,1 +1,2 @@
-"# EventSync-RSPV" 
+"# EventSync-RSPV fullstack project"
+
